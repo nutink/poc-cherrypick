@@ -1,0 +1,10 @@
+Run
+dotnet run --project Services/Lending/MLoan/MLoanTopup.API/MLoanTopup.API.csproj --framework=net8.0
+
+or
+
+dotnet run --project Services/Lending/MLoan/MLoanTopup.API/MLoanTopup.API.csproj --framework=net8.0 p:PackTargetFramework=net8.0
+
+
+Build
+dotnet build Services/Lending/MLoan/MLoanTopup.API/MLoanTopup.API.csproj -p:TargetFramework=net8.0
