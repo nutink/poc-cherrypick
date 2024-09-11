@@ -1,0 +1,5 @@
+Temp message and command
+
+FROM harbor.krungsri.net/base/bay-dotnet-aspnet:6.0-bullseye-slim
+FROM harbor.krungsri.net/base/bay-dotnet-aspnet:6.0-bookworm-slim
+FROM harbor.krungsri.net/base/bay-dotnet-aspnet:8.0-bookworm-slim
